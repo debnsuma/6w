@@ -1,0 +1,8 @@
+gradio
+numpy
+requests
+groq
+python-dotenv
+beautifulsoup4
+
+
