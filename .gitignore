@@ -31,3 +31,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# ignore all files under the dataset directory
+dataset/*
+dataset/** 
