@@ -1,8 +1,6 @@
-gradio
-numpy
-requests
-groq
-python-dotenv
-beautifulsoup4
-
-
+gradio==5.25.0
+numpy==2.2.4
+requests==2.32.3
+groq==0.22.0
+python-dotenv==1.1.0
+beautifulsoup4==4.13.3
